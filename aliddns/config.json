@@ -1,0 +1,7 @@
+{
+    "access_key_id": "XXX",
+    "access_key_secret": "XX",
+    "region_id": "cn-hangzhou",
+    "ttl": 600,
+    "domains": ["XX.XX.com"]
+}
