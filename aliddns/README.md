@@ -23,10 +23,5 @@
 
 ## 外网IP获取方式
 
-目前使用[http://v4.ipv6-test.com/api/myip.php](http://v4.ipv6-test.com/api/myip.php)来获取IP地址，未来如果失效，可以采用如下其他几种获取方式：
 
-* POST: [http://ip.taobao.com/service/getIpInfo.php?ip=myip](http://ip.taobao.com/service/getIpInfo.php?ip=myip)
-
-* POST: [http://ip.taobao.com/service/getIpInfo2.php?ip=myip](http://ip.taobao.com/service/getIpInfo2.php?ip=myip)
-
-* GET: [http://pv.sohu.com/cityjson](http://pv.sohu.com/cityjson)
+我自己使用IP138的方式扩充的,详情参考代码 @author Forest10
