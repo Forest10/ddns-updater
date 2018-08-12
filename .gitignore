@@ -36,6 +36,7 @@ Temporary Items
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
+.idea/*
 venv/*
 # Python:
 *.py[cod]
